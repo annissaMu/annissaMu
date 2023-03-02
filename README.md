@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @annissaMu
 - 👀 I’m interested in full-stack web development
-- 🌱 I’m currently learning Java, React, SQL
+- 🌱 I’m currently learning C, Swift, Unity
 - 📫 How to reach me... annisamu115@gmail.com
 
 <!---
